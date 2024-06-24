@@ -13,6 +13,7 @@ export default {
     extend: {
       fontFamily: {
         sans: ['Montserrat', 'sans-serif'],
+        mono: ['Roboto Mono', 'monospace']
       },
     }
   },

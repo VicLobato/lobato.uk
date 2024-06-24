@@ -6,3 +6,7 @@
         <li class="mr-4"><a href="#" class="text-blue-800 hover:text-blue-700 hover:underline">contact</a></li>
     </ul>
 </nav>
+
+<div class="flex justify-center max-w-4xl">
+    <h1 class="font-mono text-3xl">Hi, I'm Victor.</h1>
+</div>
