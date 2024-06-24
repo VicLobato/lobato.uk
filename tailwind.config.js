@@ -5,9 +5,16 @@ export default {
     colors: {
       black: '#000',
       grey: '#DBDBDB',
-      blue: "#0071A5"
+      blue: {
+        700: "#188CC1",
+        800: "#0071A5"
+      },
     },
-    extend: {}
+    extend: {
+      fontFamily: {
+        sans: ['Montserrat', 'sans-serif'],
+      },
+    }
   },
   plugins: []
 };
